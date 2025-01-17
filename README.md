@@ -20,19 +20,6 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Phyton-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
- Olá 👋 
-
-
-Me chamo Lucas. Sou um desenvolvedor em transição de carreira, buscando uma oportunidade para atuar no ambiente corporativo. Através da experiência prática na área de desenvolvimento, almejo contribuir para projetos inovadores e, ao mesmo tempo, adquirir conhecimentos que promovam meu crescimento profissional e pessoal.
-
-🔗 **Saiba mais sobre mim**
-
-
-<a href="https://www.linkedin.com/in/lucasbomfim06/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-007ACC?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://bomfimtech.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/BomfaTech-e27602?style=for-the-badge&logoColor=white"/></a>
-<a href="https://www.youtube.com/@lucasbomfim1945/playlists" target="blank"><img align="center" src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-
-
 ### HABILIDADES FRONTEND
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
